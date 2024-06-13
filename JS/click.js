@@ -7,7 +7,7 @@ function sayName(){
     let name = document.getElementById('name').value;
     alert("hello " + name);
 }
-function message(age){
+function message(age){ 
     console.log("you have " + age + " years old");
 }
 message(40);
